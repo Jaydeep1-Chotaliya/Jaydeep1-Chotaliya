@@ -1,10 +1,9 @@
-![analysis-digital-marketing](https://github.com/Jaydeep1-Chotaliya/Jaydeep1-Chotaliya/assets/129647680/5f2d40d7-58ac-4ac2-9ff8-a1f6423680c3)
-
+![ezgif com-gif-to-mp4 (1)](https://github.com/Jaydeep1-Chotaliya/Jaydeep1-Chotaliya/assets/129647680/ddc1ce58-96ba-448a-b6d7-ebca1e9ff023)
 - 👋 Hi, I’m @Jaydeep Chotaliya
-- 👀 I’m interested in Data analytics 
-- 🌱 I’m currently learning core principle 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data analytics  
+- 🌱 I’m learned Tool and technical skill for handle data
+- 💞️ I’m looking to collaborate on enthusiastic and passionate aspiring data analyst and team
+- 📫 How to reach me [Email](mailto:jaydeepchotaliya5@gmail.com)
 
 <!---
 Jaydeep1-Chotaliya/Jaydeep1-Chotaliya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
