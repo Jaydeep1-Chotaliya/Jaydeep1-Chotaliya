@@ -1,4 +1,4 @@
-![ezgif com-gif-to-mp4 (1)](https://github.com/Jaydeep1-Chotaliya/Jaydeep1-Chotaliya/assets/129647680/ddc1ce58-96ba-448a-b6d7-ebca1e9ff023)
+![Data_Analytics](https://github.com/Jaydeep1-Chotaliya/Jaydeep1-Chotaliya/assets/129647680/155c61b0-2f3f-4884-8359-a856cf1fc132)
 - 👋 Hi, I’m @Jaydeep Chotaliya
 - 👀 I’m interested in Data  
 - 🌱 I’m learned Tool and technical skill for handle data
